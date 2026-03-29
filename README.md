@@ -8,7 +8,7 @@ Command line alignment tool
 
 for example:
 ```
-./calign GCATGCG GATT
+user@device:~$ ./calign GCATGCG GATT
 
         G   C   A   T   G   C   G 
     0  -1  -2  -3  -4  -5  -6  -7 
